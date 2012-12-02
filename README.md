@@ -1,4 +1,5 @@
-== iops ==
+iops
+====
 
 A simple tool to benchmark block device IO operations.
 
